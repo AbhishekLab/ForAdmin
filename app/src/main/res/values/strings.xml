@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Admin</string>
+
+    <string-array name="tattoo">
+        <item>None</item>
+        <item>One</item>
+        <item>A few</item>
+        <item>Inked</item>
+        <item>Prefer not to say</item>
+    </string-array>
+
+</resources>
